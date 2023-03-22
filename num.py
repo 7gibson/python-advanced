@@ -1,5 +1,3 @@
-# python-advanced
-
 age=90
 
 if age>100:
