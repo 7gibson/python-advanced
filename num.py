@@ -1,4 +1,4 @@
-age=80
+age=90
 
 if age>100:
     print("you are too old to party grunny!!")
